@@ -1,2 +1,3 @@
-# whonix_gateway_openbsd
- My Whonix-Gateway Whonix-OpenBSD for Vmware Workstation
+# whonix_NET 
+
+ My Whonix-Gateway Whonix-Gateway for Vmware Workstation 
