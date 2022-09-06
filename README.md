@@ -1,3 +1,3 @@
 # whonix_NET 
 
- My Whonix-Gateway Whonix-Gateway for Vmware Workstation 
+ My Whonix-Gateway converted for Vmware Workstation. All Infos in Vmware Description Field.
